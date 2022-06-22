@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched]]>
+    </line>
+    <line>
+      <![CDATA[Actual Title : OrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Login successful]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Logout successful]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successful]]>
+    </line>
+    <line>
+      <![CDATA[Entered into frame]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched]]>
+    </line>
+    <line>
+      <![CDATA[Actual Title : OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[New employee added successfully]]>
+    </line>
+    <line>
+      <![CDATA[Exited from frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout successful]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successful]]>
+    </line>
+    <line>
+      <![CDATA[Entered into frame]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched]]>
+    </line>
+    <line>
+      <![CDATA[Actual Title : OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[Edited employee successfully]]>
+    </line>
+    <line>
+      <![CDATA[Exited from frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout successful]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successful]]>
+    </line>
+    <line>
+      <![CDATA[Entered into frame]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched]]>
+    </line>
+    <line>
+      <![CDATA[Actual Title : OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[Deleted employee successfully]]>
+    </line>
+    <line>
+      <![CDATA[Exited from frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout successful]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-22T14:28:37Z" name="Suite2" finished-at="2022-06-22T14:29:03Z" duration-ms="25627">
+    <groups>
+    </groups>
+    <test started-at="2022-06-22T14:28:37Z" name="TestSuiteDemo-with Package" finished-at="2022-06-22T14:29:03Z" duration-ms="25627">
+      <class name="com.hrms.testscripts.Testing_035_EditEmployee">
+        <test-method signature="editemp()[pri:0, instance:com.hrms.testscripts.Testing_035_EditEmployee@68567e20]" started-at="2022-06-22T19:58:49Z" name="editemp" finished-at="2022-06-22T19:58:57Z" duration-ms="7298" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login successful]]>
+            </line>
+            <line>
+              <![CDATA[Entered into frame]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched]]>
+            </line>
+            <line>
+              <![CDATA[Actual Title : OrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[Edited employee successfully]]>
+            </line>
+            <line>
+              <![CDATA[Exited from frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout successful]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editemp -->
+      </class> <!-- com.hrms.testscripts.Testing_035_EditEmployee -->
+      <class name="com.hrms.testscripts.Testing_033_LoginLogout">
+        <test-method signature="loginout()[pri:0, instance:com.hrms.testscripts.Testing_033_LoginLogout@11fc564b]" started-at="2022-06-22T19:58:37Z" name="loginout" finished-at="2022-06-22T19:58:43Z" duration-ms="6096" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched]]>
+            </line>
+            <line>
+              <![CDATA[Actual Title : OrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Login successful]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Logout successful]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginout -->
+      </class> <!-- com.hrms.testscripts.Testing_033_LoginLogout -->
+      <class name="com.hrms.testscripts.Testing_036_DelEmployee">
+        <test-method signature="delemp()[pri:0, instance:com.hrms.testscripts.Testing_036_DelEmployee@76ed1b7c]" started-at="2022-06-22T19:58:57Z" name="delemp" finished-at="2022-06-22T19:59:03Z" duration-ms="6133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login successful]]>
+            </line>
+            <line>
+              <![CDATA[Entered into frame]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched]]>
+            </line>
+            <line>
+              <![CDATA[Actual Title : OrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[Deleted employee successfully]]>
+            </line>
+            <line>
+              <![CDATA[Exited from frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout successful]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- delemp -->
+      </class> <!-- com.hrms.testscripts.Testing_036_DelEmployee -->
+      <class name="com.hrms.testscripts.Testing_034_AddEmployee">
+        <test-method signature="addemp()[pri:0, instance:com.hrms.testscripts.Testing_034_AddEmployee@2f465398]" started-at="2022-06-22T19:58:43Z" name="addemp" finished-at="2022-06-22T19:58:49Z" duration-ms="6060" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login successful]]>
+            </line>
+            <line>
+              <![CDATA[Entered into frame]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched]]>
+            </line>
+            <line>
+              <![CDATA[Actual Title : OrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[New employee added successfully]]>
+            </line>
+            <line>
+              <![CDATA[Exited from frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout successful]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addemp -->
+      </class> <!-- com.hrms.testscripts.Testing_034_AddEmployee -->
+    </test> <!-- TestSuiteDemo-with Package -->
+  </suite> <!-- Suite2 -->
+</testng-results>

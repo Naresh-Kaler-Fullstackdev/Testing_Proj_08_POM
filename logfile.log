@@ -1,0 +1,131 @@
+2022-06-17 18:41:33,442 INFO  [Log] Browser opened 
+2022-06-17 18:41:34,305 INFO  [Log] Application opened 
+2022-06-17 18:41:34,320 INFO  [Log] Title not matched 
+2022-06-17 18:41:34,336 INFO  [Log] OrangeHRM - New Level of HR Management 
+2022-06-17 18:41:36,003 INFO  [Log] Login successful 
+2022-06-17 18:41:36,011 INFO  [Log] Title matched 
+2022-06-17 18:41:36,102 INFO  [Log] Logout successful 
+2022-06-17 18:41:36,308 INFO  [Log] Browser closed 
+2022-06-17 18:46:01,148 INFO  [Log] Browser opened 
+2022-06-17 18:46:01,836 INFO  [Log] Application opened 
+2022-06-17 18:46:01,852 INFO  [Log] Title not matched 
+2022-06-17 18:46:01,868 INFO  [Log] OrangeHRM - New Level of HR Management 
+2022-06-17 18:46:03,749 INFO  [Log] Login successful 
+2022-06-17 18:46:03,765 INFO  [Log] Title matched 
+2022-06-17 18:46:03,842 INFO  [Log] Logout successful 
+2022-06-17 18:46:04,034 INFO  [Log] Browser closed 
+2022-06-20 17:04:29,627 INFO  [Log] Browser opened 
+2022-06-20 17:04:30,061 INFO  [Log] Application opened 
+2022-06-20 17:04:31,283 INFO  [Log] Login successful 
+2022-06-20 17:04:31,416 INFO  [Log] Entered into frame 
+2022-06-20 17:04:31,424 INFO  [Log] Exited from frame 
+2022-06-20 17:04:31,430 INFO  [Log] Title not matched 
+2022-06-20 17:04:31,445 INFO  [Log] OrangeHRM 
+2022-06-20 17:04:31,534 INFO  [Log] Logout successful 
+2022-06-20 17:04:31,756 INFO  [Log] Browser closed 
+2022-06-20 19:30:15,846 INFO  [Log] Browser opened 
+2022-06-20 19:30:16,316 INFO  [Log] Application opened 
+2022-06-20 19:30:17,528 INFO  [Log] Login successful 
+2022-06-20 19:30:17,606 INFO  [Log] Entered into frame 
+2022-06-20 19:30:17,625 INFO  [Log] Title not matched 
+2022-06-20 19:30:17,625 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-20 19:30:17,641 INFO  [Log] Exited from frame 
+2022-06-20 19:30:17,797 INFO  [Log] Browser closed 
+2022-06-22 11:10:14,419 INFO  [Log] Browser opened 
+2022-06-22 11:10:14,901 INFO  [Log] Application opened 
+2022-06-22 11:10:16,029 INFO  [Log] Login successful 
+2022-06-22 11:10:16,144 INFO  [Log] Entered into frame 
+2022-06-22 11:10:16,159 INFO  [Log] Title not matched 
+2022-06-22 11:10:16,175 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 11:10:16,175 INFO  [Log] New employee added successfully 
+2022-06-22 11:10:16,175 INFO  [Log] Exited from frame 
+2022-06-22 11:10:16,271 INFO  [Log] Logout successful 
+2022-06-22 11:10:16,518 INFO  [Log] Browser closed 
+2022-06-22 11:40:03,834 INFO  [Log] Browser opened 
+2022-06-22 11:40:04,333 INFO  [Log] Application opened 
+2022-06-22 11:40:05,505 INFO  [Log] Login successful 
+2022-06-22 11:40:05,565 INFO  [Log] Entered into frame 
+2022-06-22 11:40:05,596 INFO  [Log] Title not matched 
+2022-06-22 11:40:05,610 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 11:40:05,611 INFO  [Log] Edited employee successfully 
+2022-06-22 11:40:05,624 INFO  [Log] Exited from frame 
+2022-06-22 11:40:05,710 INFO  [Log] Logout successful 
+2022-06-22 11:40:05,932 INFO  [Log] Browser closed 
+2022-06-22 11:54:36,686 INFO  [Log] Browser opened 
+2022-06-22 11:54:37,179 INFO  [Log] Application opened 
+2022-06-22 11:54:38,326 INFO  [Log] Login successful 
+2022-06-22 11:54:38,398 INFO  [Log] Entered into frame 
+2022-06-22 11:54:38,413 INFO  [Log] Title not matched 
+2022-06-22 11:54:38,413 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 11:54:38,429 INFO  [Log] Deleted employee successfully 
+2022-06-22 11:54:38,441 INFO  [Log] Exited from frame 
+2022-06-22 11:54:38,525 INFO  [Log] Logout successful 
+2022-06-22 11:54:38,740 INFO  [Log] Browser closed 
+2022-06-22 17:45:16,172 INFO  [Log] Browser opened 
+2022-06-22 17:45:16,811 INFO  [Log] Application opened 
+2022-06-22 17:45:17,886 INFO  [Log] Login successful 
+2022-06-22 17:45:17,964 INFO  [Log] Entered into frame 
+2022-06-22 17:45:17,980 INFO  [Log] Title not matched 
+2022-06-22 17:45:17,995 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 17:45:20,510 INFO  [Log] New employee added successfully 
+2022-06-22 17:45:20,526 INFO  [Log] Exited from frame 
+2022-06-22 17:45:20,640 INFO  [Log] Logout successful 
+2022-06-22 17:45:20,979 INFO  [Log] Browser closed 
+2022-06-22 18:46:10,078 INFO  [Log] Browser opened 
+2022-06-22 18:46:10,491 INFO  [Log] Application opened 
+2022-06-22 18:46:11,710 INFO  [Log] Login successful 
+2022-06-22 18:46:11,776 INFO  [Log] Entered into frame 
+2022-06-22 18:46:11,808 INFO  [Log] Title not matched 
+2022-06-22 18:46:11,816 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 18:46:14,760 INFO  [Log] Edited employee successfully 
+2022-06-22 18:46:14,773 INFO  [Log] Exited from frame 
+2022-06-22 18:46:14,852 INFO  [Log] Logout successful 
+2022-06-22 18:46:15,052 INFO  [Log] Browser closed 
+2022-06-22 19:03:03,668 INFO  [Log] Browser opened 
+2022-06-22 19:03:04,203 INFO  [Log] Application opened 
+2022-06-22 19:03:05,427 INFO  [Log] Login successful 
+2022-06-22 19:03:05,486 INFO  [Log] Entered into frame 
+2022-06-22 19:03:05,517 INFO  [Log] Title not matched 
+2022-06-22 19:03:05,536 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 19:03:06,975 INFO  [Log] Deleted employee successfully 
+2022-06-22 19:03:06,984 INFO  [Log] Exited from frame 
+2022-06-22 19:03:07,066 INFO  [Log] Logout successful 
+2022-06-22 19:03:07,314 INFO  [Log] Browser closed 
+2022-06-22 19:58:41,754 INFO  [Log] Browser opened 
+2022-06-22 19:58:42,178 INFO  [Log] Application opened 
+2022-06-22 19:58:42,202 INFO  [Log] Title not matched 
+2022-06-22 19:58:42,211 INFO  [Log] Actual Title : OrangeHRM - New Level of HR Management 
+2022-06-22 19:58:43,379 INFO  [Log] Login successful 
+2022-06-22 19:58:43,387 INFO  [Log] Title matched 
+2022-06-22 19:58:43,495 INFO  [Log] Logout successful 
+2022-06-22 19:58:43,757 INFO  [Log] Browser closed 
+2022-06-22 19:58:45,380 INFO  [Log] Browser opened 
+2022-06-22 19:58:45,907 INFO  [Log] Application opened 
+2022-06-22 19:58:47,049 INFO  [Log] Login successful 
+2022-06-22 19:58:47,119 INFO  [Log] Entered into frame 
+2022-06-22 19:58:47,143 INFO  [Log] Title not matched 
+2022-06-22 19:58:47,151 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 19:58:49,569 INFO  [Log] New employee added successfully 
+2022-06-22 19:58:49,577 INFO  [Log] Exited from frame 
+2022-06-22 19:58:49,657 INFO  [Log] Logout successful 
+2022-06-22 19:58:49,817 INFO  [Log] Browser closed 
+2022-06-22 19:58:51,982 INFO  [Log] Browser opened 
+2022-06-22 19:58:52,478 INFO  [Log] Application opened 
+2022-06-22 19:58:53,650 INFO  [Log] Login successful 
+2022-06-22 19:58:53,706 INFO  [Log] Entered into frame 
+2022-06-22 19:58:53,721 INFO  [Log] Title not matched 
+2022-06-22 19:58:53,741 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 19:58:56,853 INFO  [Log] Edited employee successfully 
+2022-06-22 19:58:56,861 INFO  [Log] Exited from frame 
+2022-06-22 19:58:56,941 INFO  [Log] Logout successful 
+2022-06-22 19:58:57,123 INFO  [Log] Browser closed 
+2022-06-22 19:58:59,215 INFO  [Log] Browser opened 
+2022-06-22 19:59:00,295 INFO  [Log] Application opened 
+2022-06-22 19:59:01,451 INFO  [Log] Login successful 
+2022-06-22 19:59:01,502 INFO  [Log] Entered into frame 
+2022-06-22 19:59:01,531 INFO  [Log] Title not matched 
+2022-06-22 19:59:01,541 INFO  [Log] Actual Title : OrangeHRM 
+2022-06-22 19:59:02,950 INFO  [Log] Deleted employee successfully 
+2022-06-22 19:59:02,958 INFO  [Log] Exited from frame 
+2022-06-22 19:59:03,031 INFO  [Log] Logout successful 
+2022-06-22 19:59:03,272 INFO  [Log] Browser closed 
